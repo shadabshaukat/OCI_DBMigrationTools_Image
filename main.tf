@@ -17,7 +17,7 @@ resource "oci_core_image" "ceg_dbmigrate_image" {
 
     image_source_details {
         source_type = "objectStorageUri"
-        source_uri = "https://objectstorage.ap-sydney-1.oraclecloud.com/p/Ci29RFFyBzaoa2Q7bkDRBl5tEhbC4yApQjm_IKCKEWddeCKiIgPHcQTMdawU17Py/n/idmldytingzx/b/dbmigrationimage/o/DBMigrationToolImage181220"
+        source_uri = "https://objectstorage.ap-sydney-1.oraclecloud.com/p/2prI47egyxVuK2RD1bcdYS37MgCe1IFZ2wNd2oya1YmeEMuILLjmVBT_fSUNahXG/n/idmldytingzx/b/DBMigrationToolImage02Apr21_SYD/o/DBMigrationToolImage02Apr21_SYD"
 
         #Optional
         #operating_system = "${var.image_image_source_details_operating_system}"
