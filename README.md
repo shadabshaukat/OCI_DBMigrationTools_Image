@@ -1,3 +1,6 @@
+# Update 07 April 2021
+The TF code for Migrations Tools Custom Image is now availble in 3 regions Mumbai, Sydney and Ashburn. The code is available as a Zip file to deploy from OCI Resource manager. If you create the stack with the main.tf in the main repo then it will create your stack from Custom image available in Sydney. 
+
 # DBMigrationToolImage
 Custom OL7 Image with OCI DB Migration Tools
 
